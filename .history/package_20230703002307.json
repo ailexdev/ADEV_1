@@ -1,18 +1,18 @@
 {
-  "name": "next-tailwind-template",
+  "name": "ts-next-tailwind-template",
   "version": "1.0.0",
   "private": "true",
   "description": "Ultimate Front-end Template made using NextJs, TailwindCSS, and Typescript",
   "author": {
-    "email": "info@einfachalex.net",
-    "name": "AilexDev",
+    "email": "crisemcr@gmail.com",
+    "name": "Cristian Crețu",
     "url": "https://cretu.dev"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://einfachalex.net"
+    "url": "https://github.com/cristicretu/ts-next-tailwind-template/issues"
   },
-  "homepage": "https://einfachalex.net",
+  "homepage": "https://template.cretu.dev",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
